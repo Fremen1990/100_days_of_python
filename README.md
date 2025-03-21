@@ -16,7 +16,7 @@
 ### [Indently Channel](https://www.youtube.com/@Indently/videos)
 
 - [x] [10 Important Python Concepts In 20 Minutes](https://www.youtube.com/watch?v=Gx5qb1uHss4&ab_channel=Indently)
-- [ ] [Lambdas in Python Are Awesome](https://www.youtube.com/watch?v=K36DX1hYoow&ab_channel=Indently)
+- [x] [Lambdas in Python Are Awesome](https://www.youtube.com/watch?v=K36DX1hYoow&ab_channel=Indently)
 - [ ] [5 Cool Python One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms&ab_channel=Indently)
 - [ ] [5 Useful Generator functions in Python](https://www.youtube.com/watch?v=1OSEzdOpmWQ&ab_channel=Indently)
 - [ ] [Learn Python OOP in under 20 Minutes](https://www.youtube.com/watch?v=rLyYb7BFgQI&ab_channel=Indently)
